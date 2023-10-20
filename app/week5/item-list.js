@@ -32,8 +32,5 @@ export default function ItemList () {
                 ))}
             </ul>
         </div>
-    );
-
-
-        
+    );        
 };
