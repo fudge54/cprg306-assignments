@@ -1,8 +1,3 @@
-/**Import Necessary Hooks: Start by importing the necessary React hooks at the top of your file. You'll be using the useState hook.
-
-Update Component Definition: Begin defining your ItemList functional component. In addition to the items prop from Week 6, this component should now also receive an onItemSelect prop.
-
-Update Render Method: The rendering of sorting buttons remains the same. The change is in rendering the list items. Now, each Item component should be clickable and trigger the onItemSelect function with the respective item as an argument. This is achieved by passing the onSelect prop to each Item component. */
 
 "use client";
 
